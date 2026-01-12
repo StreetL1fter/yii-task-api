@@ -1,0 +1,9 @@
+# Yii2
+/vendor/
+/runtime/
+/web/assets/
+.env
+composer.phar
+.DS_Store
+Thumbs.db
+>>>>>>> 85717c39ca6d41990c3fb96441c16784a9a24b1a

@@ -1,0 +1,8 @@
+# Yii2
+/vendor/
+/runtime/
+/web/assets/
+.env
+composer.phar
+.DS_Store
+Thumbs.db
