@@ -47,4 +47,5 @@ Value: 1 или 2
 ✅ Если всё правильно — ответ будет 201 Created.
 ❌ Если нет заголовка или ID неверный — 400 Bad Request или 403 Forbidden.
 
-Проект запускается с помощью Open Panel Server. Все 4 файла которые есть,а это: 1. .osp  2. my-yii-app  3. .gitignore  4.README.
+Проект запускается с помощью Open Panel Server. Все 4 файла которые есть,а это: 1. .osp  2. my-yii-app  3. .gitignore  4.README. Должны 
+быть вместе
